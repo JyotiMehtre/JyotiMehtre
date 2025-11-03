@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi I'm Jyoti Mehtre
+🚀 Python Developer | AI Enthusiast | Backend Developer
 
-<!--
-**JyotiMehtre/JyotiMehtre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building AI tools, RAG systems, MCP apps, Chatbot systems, and automation using Python.
 
-Here are some ideas to get you started:
+🧰 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Python
+
+AI & ML: PyTorch, LangChain, RAG, MCP, Transformers
+
+Backend: FastAPI
+
+Databases: SQLite, MySQL
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook
+
+Libraries: Pandas, NumPy
+
+🔥 Featured Projects
+
+✅ Python Mini Projects Collection
+
+Multiple beginner-to-advanced Python projects.
+
+✅ AI Assistants using MCP
+
+Built smart AI assistants with model context protocol.
+
+✅ LangChain Experiments
+
+Vector DB, Agents, Tools, Prompt Engineering.
+
+
+📫 Connect With Me
+
+GitHub: github.com/JyotiMehtre
